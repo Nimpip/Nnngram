@@ -89,5 +89,3 @@ jobs:
         with:
           name: mapping
           path: TMessagesProj/build/outputs/mapping
-          name: telegram-bot-api-binary
-          path: telegram-bot-api-binary
