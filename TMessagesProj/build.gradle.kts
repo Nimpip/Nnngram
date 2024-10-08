@@ -163,7 +163,7 @@ android {
         getByName("debug") {
             signingConfig = signingConfigs.getByName("release")
             isDefault = true
-            isDebuggable = true
+            isDebuggable = false
             isJniDebuggable = true
         }
     }
